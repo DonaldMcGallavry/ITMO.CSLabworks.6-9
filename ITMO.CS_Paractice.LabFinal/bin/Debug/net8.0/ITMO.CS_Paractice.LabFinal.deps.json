@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITMO.CS_Paractice.LabFinal/1.0.0": {
+        "runtime": {
+          "ITMO.CS_Paractice.LabFinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITMO.CS_Paractice.LabFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
