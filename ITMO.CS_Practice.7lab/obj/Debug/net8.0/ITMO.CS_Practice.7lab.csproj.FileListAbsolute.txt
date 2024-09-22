@@ -1,0 +1,14 @@
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\bin\Debug\net8.0\ITMO.CS_Practice.7lab.exe
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\bin\Debug\net8.0\ITMO.CS_Practice.7lab.deps.json
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\bin\Debug\net8.0\ITMO.CS_Practice.7lab.runtimeconfig.json
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\bin\Debug\net8.0\ITMO.CS_Practice.7lab.dll
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\bin\Debug\net8.0\ITMO.CS_Practice.7lab.pdb
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.AssemblyInfoInputs.cache
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.AssemblyInfo.cs
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.csproj.CoreCompileInputs.cache
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.dll
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\refint\ITMO.CS_Practice.7lab.dll
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.pdb
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ITMO.CS_Practice.7lab.genruntimeconfig.cache
+C:\Users\PopKhorne\Desktop\CS\ITMO.CS_Practice.7lab\obj\Debug\net8.0\ref\ITMO.CS_Practice.7lab.dll
